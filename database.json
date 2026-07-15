@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Öz",
+    "aliases": [
+      "öz",
+      "oz",
+      "öz nedir",
+      "oz nedir",
+      "öz ne",
+      "öz hakkında"
+    ],
+    "category": "Madde",
+    "description": "Öz, Zet dünyasında belli kişilerin (büyücülerin) oral yolla tüketerek çeşitli yetenekler ve teknikler kullanmasını sağlayan özel bir gıdadır.",
+    "image": "/images/oz.png",
+    "firstAppearance": "Bilinmiyor",
+    "location": "Zet Dünyası",
+    "danger": "Orta",
+    "race": "",
+    "age": "",
+    "occupation": "",
+    "related": [
+      "Büyücü"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Zet",
+    "aliases": [
+      "zet",
+      "zet nedir",
+      "dünya",
+      "zet dünyası"
+    ],
+    "category": "Dünya",
+    "description": "Zet, hikâyenin geçtiği fantastik dünyanın adıdır.",
+    "image": "/images/zet.png",
+    "firstAppearance": "Bölüm 1",
+    "location": "Evren",
+    "danger": "Yok",
+    "race": "",
+    "age": "",
+    "occupation": "",
+    "related": [
+      "Öz",
+      "Büyücü"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Büyücü",
+    "aliases": [
+      "büyücü",
+      "buyucu",
+      "mage",
+      "büyücü nedir",
+      "büyücü kimdir"
+    ],
+    "category": "Irk",
+    "description": "Öz kullanabilen ve çeşitli teknikleri öğrenebilen kişilere büyücü denir.",
+    "image": "/images/buyucu.png",
+    "firstAppearance": "Bölüm 1",
+    "location": "Zet Dünyası",
+    "danger": "Değişken",
+    "race": "İnsan",
+    "age": "",
+    "occupation": "Büyücü",
+    "related": [
+      "Öz"
+    ]
+  }
+]
