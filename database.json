@@ -500,10 +500,12 @@
     "id": 1786035741221,
     "title": "Jo'rael",
     "aliases": [
-      "jo'rael"
+      "jo'rael",
+      "jorael",
+      "jo rael"
     ],
-    "category": "Karakterler",
-    "description": "Kronik komaya girme hastalığından müzdarip bir nervon.Devamını ben bile unuttum aq",
+    "category": "Karakter",
+    "description": "Kronik komaya girme hastalığından müzdarip bir nervon. Devamını ben bile unuttum aq",
     "image": "",
     "location": "Hiç bi fikrm yok.",
     "danger": "Değişken",
@@ -519,13 +521,10 @@
     "aliases": [
       "kaldenler",
       "kalden'ler",
-      "kaldenler",
-      "kaldenler",
-      "kalden",
       "kalden"
     ],
     "category": "Irk",
-    "description": "İnsanların ülkesine bitişik, kendi küçük ülkerine sahip bir ırk.Kurt,Tilki,Kedi şeklinde 3 türe ayrılırlar.\nDaha ilkel ve küçük nüfuslulardır.Diğer türlerden pek hoşlanmazlar.\n",
+    "description": "İnsanların ülkesine bitişik, kendi küçük ülkelerine sahip bir ırk. Kurt, Tilki ve Kedi şeklinde üç türe ayrılırlar.\nDaha ilkel ve küçük nüfusludurlar. Diğer türlerden pek hoşlanmazlar.",
     "image": "",
     "location": "Kaldenler",
     "danger": "Orta",
