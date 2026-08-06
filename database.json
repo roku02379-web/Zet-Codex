@@ -495,5 +495,44 @@
       "Jo'rael",
       "Megumin"
     ]
+  },
+  {
+    "id": 1786035741221,
+    "title": "Jo'rael",
+    "aliases": [
+      "jo'rael"
+    ],
+    "category": "Karakterler",
+    "description": "Kronik komaya girme hastalığından müzdarip bir nervon.Devamını ben bile unuttum aq",
+    "image": "",
+    "location": "Hiç bi fikrm yok.",
+    "danger": "Değişken",
+    "race": "Nervon",
+    "age": "?",
+    "occupation": "?",
+    "firstAppearance": "NİGGER",
+    "related": []
+  },
+  {
+    "id": 1786036266233,
+    "title": "Kaldenler",
+    "aliases": [
+      "kaldenler",
+      "kalden'ler",
+      "kaldenler",
+      "kaldenler",
+      "kalden",
+      "kalden"
+    ],
+    "category": "Irk",
+    "description": "İnsanların ülkesine bitişik, kendi küçük ülkerine sahip bir ırk.Kurt,Tilki,Kedi şeklinde 3 türe ayrılırlar.\nDaha ilkel ve küçük nüfuslulardır.Diğer türlerden pek hoşlanmazlar.\n",
+    "image": "",
+    "location": "Kaldenler",
+    "danger": "Orta",
+    "race": "Kalden işte aq",
+    "age": "",
+    "occupation": "",
+    "firstAppearance": "",
+    "related": []
   }
 ]
