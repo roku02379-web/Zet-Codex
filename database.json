@@ -370,7 +370,7 @@
       "alpha",
       "alfa"
     ],
-    "category": "Karakter",
+    "category": "",
     "description": "Hayaletkanların yöneticilerinden biridir.",
     "image": "",
     "firstAppearance": "",
@@ -435,7 +435,7 @@
       "gölge",
       "golge"
     ],
-    "category": "Karakter",
+    "category": "",
     "description": "Lider.",
     "image": "",
     "firstAppearance": "",
@@ -446,6 +446,54 @@
     "occupation": "Lider",
     "related": [
       "Semadeşenler"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "​Ümit",
+    "aliases": [
+      "ümit",
+      "umit",
+      "hope"
+    ],
+    "category": "",
+    "description": "Namıdiğer Hope. Zenci bir Kalden tilki. Backstory'sini kopyala-yapıştır bile yapmaya üşendiğim için yazmadım. (Ayrıca teknik olarak zoofili.)\n\nArkadaşı Clover ile birlikte (Kirby'e benzemeyen!) takılırlar. Druid'dir. Güncel rank'ı: C-\n\nArsend, Reon, Jo'rael ve Megumin ile aynı partidedir.",
+    "image": "",
+    "firstAppearance": "",
+    "location": "",
+    "danger": "C-",
+    "race": "Kalden Tilki",
+    "age": "",
+    "occupation": "Druid",
+    "related": [
+      "Clover",
+      "Arsend",
+      "Reon",
+      "Jo'rael",
+      "Megumin"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "​Arda",
+    "aliases": [
+      "arda",
+      "arsend"
+    ],
+    "category": "",
+    "description": "Namıdiğer Arsend. 1,60 boyunda biseksüel bir Dragonborn. Backstory'si rastgele bir demirci Dragonborn NPC ile aynıdır. Tek bir ufak farkla.\n\nGüncel rank'ı: C-\n\nHope, Reon, Jo'rael ve Megumin ile aynı partidedir.",
+    "image": "",
+    "firstAppearance": "",
+    "location": "",
+    "danger": "C-",
+    "race": "Dragonborn",
+    "age": "",
+    "occupation": "",
+    "related": [
+      "Hope",
+      "Reon",
+      "Jo'rael",
+      "Megumin"
     ]
   }
 ]
