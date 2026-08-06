@@ -533,5 +533,161 @@
     "occupation": "",
     "firstAppearance": "",
     "related": []
+  },
+  {
+    "id": 1786036816854,
+    "title": "İnsan",
+    "aliases": [
+      "i̇nsan",
+      "insan",
+      "insanlar",
+      "i̇nsanlar"
+    ],
+    "category": "Irk",
+    "description": "İnsanlar, en büyük ülkeye sahiptir.(Archidon)\nTicarette dünyanın en iyisi olarak görülürler.\nŞampiyonları Adolin'dir.",
+    "image": "",
+    "location": "Archidon",
+    "danger": "Değişken",
+    "race": "İnsan",
+    "age": "",
+    "occupation": "",
+    "firstAppearance": "",
+    "related": []
+  },
+  {
+    "id": 1786036947072,
+    "title": "Dragonborn",
+    "aliases": [
+      "dragonborn",
+      "dragonborn",
+      "dragonborn",
+      "dragonbornlar"
+    ],
+    "category": "Irk",
+    "description": "Dragonbornlar,Toprak büyüklüğü olarak en büyük 2. ülkeye (Fenrir) sahiplerdir.\nKrallarını her 15 yılda bir yapılan bir turnuva ile seçerler.\n",
+    "image": "",
+    "location": "Fenrir",
+    "danger": "Değişken",
+    "race": "Dragonborn",
+    "age": "",
+    "occupation": "",
+    "firstAppearance": "",
+    "related": []
+  },
+  {
+    "id": 1786037123594,
+    "title": "Venn",
+    "aliases": [
+      "venn",
+      "venn",
+      "venn",
+      "vennler"
+    ],
+    "category": "Irk",
+    "description": "Vennler, oldukça uzunlardır.Tekdüze renk saç ve gözlere sahiplerdir.\nGenelde işçi grubundadırlar.\nGelenekleri gereği yetişkinliğe ulaştıklarında saçlarını kazıtırlar.(Bu sebeple sık sık ardent olarak karıştırılarlar.)\nSoylular,uşaklarını ve hizmetçilerini genelde onlardan seçer.\nÜlkelrinin ismi \"Orren\" dir.",
+    "image": "",
+    "location": "Orren",
+    "danger": "Değişken",
+    "race": "Venn",
+    "age": "",
+    "occupation": "",
+    "firstAppearance": "",
+    "related": []
+  },
+  {
+    "id": 1786039414660,
+    "title": "Fervox",
+    "aliases": [
+      "fervox",
+      "fervox",
+      "fervox",
+      "fervoxlar"
+    ],
+    "category": "Irk",
+    "description": "1.50 metre boyundalar.Saçları ve gözleri çeşit çeşit renklerde.İnsanlara benzerler.\nKüçük boynuzlara ve kuyruğa sahipler.(Yuvarlak ve uzun kuyruk)\n(Çoğunlukla esnaflar)\nEn küçük 2.ülkeye sahiplerdir.(Kholinar)",
+    "image": "",
+    "location": "Kholinar",
+    "danger": "Değişken",
+    "race": "Fervox",
+    "age": "",
+    "occupation": "",
+    "firstAppearance": "",
+    "related": []
+  },
+  {
+    "id": 1786039561221,
+    "title": "Führer",
+    "aliases": [
+      "führer",
+      "führer",
+      "führer"
+    ],
+    "category": "Easter Egg",
+    "description": "Mustache Man",
+    "image": "https://www.shutterstock.com/editorial/image-editorial/MeT8A1zdN9jaM04fMjM5NTQ=/adolf-hitler-military-uniform-when-he-chancellor-440nw-10282705a.jpg",
+    "location": "",
+    "danger": "",
+    "race": "",
+    "age": "",
+    "occupation": "",
+    "firstAppearance": "",
+    "related": []
+  },
+  {
+    "id": 1786039743951,
+    "title": "Taruweq",
+    "aliases": [
+      "taruweq",
+      "taruweq",
+      "taruweq"
+    ],
+    "category": "Karakter",
+    "description": "Dragonborn şampiyonu.\nBiraz...kibirli ve çapkın olmasıyla bilinir.\nGüncel Rank:S+\n",
+    "image": "",
+    "location": "",
+    "danger": "",
+    "race": "",
+    "age": "",
+    "occupation": "",
+    "firstAppearance": "",
+    "related": []
+  },
+  {
+    "id": 1786039819064,
+    "title": "DnD",
+    "aliases": [
+      "dnd",
+      "dnd",
+      "dnd"
+    ],
+    "category": "Easter Egg",
+    "description": "DM'in sabrının sınandığı,oyuncuların yaşanan piçliklere karşı koymaya çalıştığı kaotik bir oyun.",
+    "image": "",
+    "location": "",
+    "danger": "",
+    "race": "",
+    "age": "",
+    "occupation": "",
+    "firstAppearance": "",
+    "related": []
+  },
+  {
+    "id": 1786039970410,
+    "title": "Oyuncu",
+    "aliases": [
+      "oyuncu",
+      "oyuncu",
+      "oyuncu"
+    ],
+    "category": "Unvan",
+    "description": "Oyuncu, DM'in oluşturduğu dünyada kendi oluşturdukları karakterleri canlandırırlar.\nYa piç ya şerefsizlerdir...\n(Ya da gay)",
+    "image": "",
+    "location": "",
+    "danger": "",
+    "race": "",
+    "age": "",
+    "occupation": "",
+    "firstAppearance": "",
+    "related": []
   }
 ]
