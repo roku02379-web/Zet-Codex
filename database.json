@@ -68,5 +68,384 @@
     "related": [
       "Öz"
     ]
+  },
+  {
+    "id": 4,
+    "title": "DM",
+    "aliases": [
+      "dm",
+      "dungeon master",
+      "oyun yöneticisi",
+      "oyunu yöneten kişi"
+    ],
+    "category": "Unvan",
+    "description": "Oyunu kurgulayan ve yöneten kişidir. Dungeon Master. :)",
+    "image": "",
+    "firstAppearance": "",
+    "location": "",
+    "danger": "",
+    "race": "",
+    "age": "",
+    "occupation": "Dungeon Master",
+    "related": []
+  },
+  {
+    "id": 5,
+    "title": "Kırmızı Öz",
+    "aliases": [
+      "kırmızı öz",
+      "kirmizi oz",
+      "kırmızı",
+      "red essence"
+    ],
+    "category": "Öz Türü",
+    "description": "Çoğunlukla saldırı için kullanılan bir Öz türüdür. Genel fiyatı 5 Gümüş'tür.",
+    "image": "",
+    "firstAppearance": "",
+    "location": "Zet Dünyası",
+    "danger": "",
+    "race": "",
+    "age": "",
+    "occupation": "",
+    "related": [
+      "Öz"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Yeşil Öz",
+    "aliases": [
+      "yeşil öz",
+      "yesil oz",
+      "yeşil",
+      "green essence"
+    ],
+    "category": "Öz Türü",
+    "description": "Başkalaşım, iyileştirme ve kutsal büyüler için kullanılan bir Öz türüdür. En yaygın bulunan Öz türü olarak da bilinir. Genel fiyatı 3 Gümüş'tür.",
+    "image": "",
+    "firstAppearance": "",
+    "location": "Zet Dünyası",
+    "danger": "",
+    "race": "",
+    "age": "",
+    "occupation": "",
+    "related": [
+      "Öz"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Siyah Öz",
+    "aliases": [
+      "siyah öz",
+      "siyah oz",
+      "siyah",
+      "black essence"
+    ],
+    "category": "Öz Türü",
+    "description": "Değişim bazlı büyüler için kullanılan bir Öz türüdür. Genel fiyatı 7 Gümüş'tür.",
+    "image": "",
+    "firstAppearance": "",
+    "location": "Zet Dünyası",
+    "danger": "",
+    "race": "",
+    "age": "",
+    "occupation": "",
+    "related": [
+      "Öz"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Mor Öz",
+    "aliases": [
+      "mor öz",
+      "mor oz",
+      "mor",
+      "purple essence"
+    ],
+    "category": "Öz Türü",
+    "description": "Çağırma büyüleri için kullanılan bir Öz türüdür. En nadir bulunan Öz türü olarak da bilinir. Genel fiyatı 13 Gümüş'tür.",
+    "image": "",
+    "firstAppearance": "",
+    "location": "Zet Dünyası",
+    "danger": "",
+    "race": "",
+    "age": "",
+    "occupation": "",
+    "related": [
+      "Öz"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Reon",
+    "aliases": [
+      "reon"
+    ],
+    "category": "Karakter",
+    "description": "Reon, #####################\n???",
+    "image": "",
+    "firstAppearance": "",
+    "location": "",
+    "danger": "",
+    "race": "",
+    "age": "",
+    "occupation": "",
+    "related": []
+  },
+  {
+    "id": 10,
+    "title": "Megumin",
+    "aliases": [
+      "megumin"
+    ],
+    "category": "Karakter",
+    "description": "Kızılşeytan Köyü'nden gelen bir sorcerer. Kızılşeytan Köyü Saldırısı'ndan sağ kalan üç kişiden biridir. Adolin'in anne tarafından kuzenidir. Explosion büyüsüne bayılır.\n\nGizli Bilgi: Tatlıları aşırı sever. Ona bir tatlı verirseniz sizi en yakın dostlarından biri sayacaktır.",
+    "image": "",
+    "firstAppearance": "",
+    "location": "Kızılşeytan Köyü",
+    "danger": "",
+    "race": "",
+    "age": "",
+    "occupation": "Sorcerer",
+    "related": [
+      "Adolin",
+      "Kızılşeytan Köyü"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Adolin",
+    "aliases": [
+      "adolin",
+      "şampiyon adolin",
+      "sampiyon adolin"
+    ],
+    "category": "Karakter",
+    "description": "Kızılşeytan Köyü'nden gelir. Kızılşeytan Köyü Saldırısı'ndan sağ kalan üç kişiden biridir. Megumin'in anne tarafından kuzenidir. Güncel derecesi S+'dır. İnsanların \"Şampiyonu\"dur. Büyü kullanamaz. Devasa bir balta ve kısa bir kılıç kullanır. En güçlü ikinci şampiyon olarak bilinir.",
+    "image": "",
+    "firstAppearance": "",
+    "location": "Kızılşeytan Köyü",
+    "danger": "S+",
+    "race": "",
+    "age": "",
+    "occupation": "Şampiyon",
+    "related": [
+      "Megumin",
+      "Kızılşeytan Köyü"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Kaladin",
+    "aliases": [
+      "kaladin"
+    ],
+    "category": "Karakter",
+    "description": "Kaladin, köyü yerle bir olduktan ve ailesi Hayaletkan üyelerinin çağırdığı \"Yeraltının Ölümsüz Kralı\" adlı yaratık tarafından katledildikten sonra orduya katılmıştır. Canavarlara ve canavardan beter insanlara karşı saplantılı bir nefret geliştirmiştir. İleri düzey tıbbi teknikler ve ecza bilgisine sahiptir.",
+    "image": "",
+    "firstAppearance": "",
+    "location": "",
+    "danger": "",
+    "race": "",
+    "age": "",
+    "occupation": "Asker",
+    "related": [
+      "Hayaletkanlar",
+      "Yeraltının Ölümsüz Kralı"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Yly",
+    "aliases": [
+      "yly",
+      "arrentilerin şampiyonu",
+      "arrentilerin sampiyonu"
+    ],
+    "category": "Karakter",
+    "description": "Arrenti'lerin şampiyonudur. Güncel derecesi S+'dır. Uzun bir kılıç kullanır. Eldritch Fighter olduğu için hem fiziksel hem de büyü kabiliyetleri gelişmiştir. En güçlü şampiyon olarak bilinir.",
+    "image": "",
+    "firstAppearance": "",
+    "location": "",
+    "danger": "S+",
+    "race": "",
+    "age": "",
+    "occupation": "Şampiyon",
+    "related": [
+      "Arrenti'ler"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "​Ruh",
+    "aliases": [
+      "ruh",
+      "ruh nedir",
+      "zet ruhu"
+    ],
+    "category": "Kavram",
+    "description": "Va'nın kişiye verdiği en nihai lütuftur. Ruh, bir ZET'i hayvanlardan ve irade sahibi olmayanlardan ayıran çekirdek şeydir.",
+    "image": "",
+    "firstAppearance": "",
+    "location": "",
+    "danger": "",
+    "race": "",
+    "age": "",
+    "occupation": "",
+    "related": [
+      "Va",
+      "Zet"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Va",
+    "aliases": [
+      "va",
+      "tanrı va",
+      "tanri va",
+      "evrenin tanrısı"
+    ],
+    "category": "Tanrı",
+    "description": "Tüm evrenin tanrısıdır. Uyuyan, kanatsız bir ejder sembolüyle gösterilir.",
+    "image": "",
+    "firstAppearance": "",
+    "location": "Evren",
+    "danger": "",
+    "race": "",
+    "age": "",
+    "occupation": "Tanrı",
+    "related": [
+      "Ruh",
+      "Araf Canavarı"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "​Araf Canavarı",
+    "aliases": [
+      "araf canavarı",
+      "araf canavari",
+      "araf canavarları",
+      "araf canavarlari"
+    ],
+    "category": "Varlık",
+    "description": "Araf canavarları LOM'da veya Anakara'da bulunabilir. Belirli bir güç seviyesini aşan herkes bir Araf canavarı olabilir. Araf canavarları, Va'dan gelen sonsuz bilgi topluluğundaki belirli bir kavrama ait tüm bilgiye sahiptir.",
+    "image": "",
+    "firstAppearance": "",
+    "location": "LOM / Anakara",
+    "danger": "Çok Yüksek",
+    "race": "Araf Canavarı",
+    "age": "",
+    "occupation": "",
+    "related": [
+      "Va",
+      "LOM",
+      "Anakara"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Gay",
+    "aliases": [
+      "gay"
+    ],
+    "category": "???",
+    "description": "You?",
+    "image": "",
+    "firstAppearance": "",
+    "location": "",
+    "danger": "",
+    "race": "",
+    "age": "",
+    "occupation": "",
+    "related": []
+  },
+  {
+    "id": 18,
+    "title": "​Alpha",
+    "aliases": [
+      "alpha",
+      "alfa"
+    ],
+    "category": "Karakter",
+    "description": "Hayaletkanların yöneticilerinden biridir.",
+    "image": "",
+    "firstAppearance": "",
+    "location": "",
+    "danger": "",
+    "race": "",
+    "age": "",
+    "occupation": "Yönetici",
+    "related": [
+      "Hayaletkanlar"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Hayaletkanlar",
+    "aliases": [
+      "hayaletkanlar",
+      "hayaletkan",
+      "hayalet kanlar"
+    ],
+    "category": "Örgüt",
+    "description": "En bilinen ve etkili suç örgütüdür. Her türlü alanda ve yerde bulunabilirler.",
+    "image": "",
+    "firstAppearance": "",
+    "location": "Zet Dünyası",
+    "danger": "Çok Yüksek",
+    "race": "",
+    "age": "",
+    "occupation": "Suç Örgütü",
+    "related": [
+      "Alpha",
+      "Kaladin"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Semadeşenler",
+    "aliases": [
+      "semadeşenler",
+      "semadesenler",
+      "semadeşen",
+      "semadesen"
+    ],
+    "category": "Örgüt",
+    "description": "Semadeşenler, Hayaletkanlara göre daha gizlidir ve gölgelerden iş yaparlar. Büyük ve gizemli bir suç örgütüdür.",
+    "image": "",
+    "firstAppearance": "",
+    "location": "",
+    "danger": "Çok Yüksek",
+    "race": "",
+    "age": "",
+    "occupation": "Suç Örgütü",
+    "related": [
+      "Hayaletkanlar",
+      "Gölge"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "​Gölge",
+    "aliases": [
+      "gölge",
+      "golge"
+    ],
+    "category": "Karakter",
+    "description": "Lider.",
+    "image": "",
+    "firstAppearance": "",
+    "location": "",
+    "danger": "",
+    "race": "",
+    "age": "",
+    "occupation": "Lider",
+    "related": [
+      "Semadeşenler"
+    ]
   }
 ]
