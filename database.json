@@ -11,14 +11,14 @@
       "öz hakkında"
     ],
     "category": "Madde",
-    "description": "Öz, Zet dünyasında belli kişilerin (büyücülerin) oral yolla tüketerek çeşitli yetenekler ve teknikler kullanmasını sağlayan özel bir gıdadır.",
+    "description": "Öz, belli kişilerin (büyücülerin) oral yolla tüketerek çeşitli yetenekler ve teknikler kullanmasını sağlayan özel bir gıdadır.",
     "image": "/images/oz.png",
-    "firstAppearance": "Bilinmiyor",
-    "location": "Zet Dünyası",
+    "location": "Aristalia",
     "danger": "Orta",
     "race": "",
     "age": "",
     "occupation": "",
+    "firstAppearance": "",
     "related": [
       "Büyücü"
     ]
@@ -30,17 +30,18 @@
       "zet",
       "zet nedir",
       "dünya",
-      "zet dünyası"
+      "zet dünyası",
+      "zet"
     ],
     "category": "Dünya",
-    "description": "Zet, hikâyenin geçtiği fantastik dünyanın adıdır.",
+    "description": "Zet, hikâyelernin geçtiği fantastik dünyanın adıdır.",
     "image": "/images/zet.png",
-    "firstAppearance": "Bölüm 1",
     "location": "Evren",
-    "danger": "Yok",
+    "danger": "Değişken",
     "race": "",
     "age": "",
     "occupation": "",
+    "firstAppearance": "",
     "related": [
       "Öz",
       "Büyücü"
@@ -48,23 +49,25 @@
   },
   {
     "id": 3,
-    "title": "Büyücü",
+    "title": "Büyücü/Cadı",
     "aliases": [
-      "büyücü",
+      "büyücü/cadı",
       "buyucu",
       "mage",
       "büyücü nedir",
-      "büyücü kimdir"
+      "büyücü kimdir",
+      "büyücü",
+      "cadı"
     ],
-    "category": "Irk",
-    "description": "Öz kullanabilen ve çeşitli teknikleri öğrenebilen kişilere büyücü denir.",
+    "category": "Kavram",
+    "description": "Öz kullanabilen ve çeşitli teknikleri öğrenebilen kişilere büyücü veya cadı denir.",
     "image": "/images/buyucu.png",
-    "firstAppearance": "Bölüm 1",
-    "location": "Zet Dünyası",
+    "location": "Aristalia",
     "danger": "Değişken",
-    "race": "İnsan",
+    "race": "",
     "age": "",
-    "occupation": "Büyücü",
+    "occupation": "",
+    "firstAppearance": "",
     "related": [
       "Öz"
     ]
@@ -101,12 +104,12 @@
     "category": "Öz Türü",
     "description": "Çoğunlukla saldırı için kullanılan bir Öz türüdür. Genel fiyatı 5 Gümüş'tür.",
     "image": "",
-    "firstAppearance": "",
-    "location": "Zet Dünyası",
+    "location": "Aristalia",
     "danger": "",
     "race": "",
     "age": "",
     "occupation": "",
+    "firstAppearance": "",
     "related": [
       "Öz"
     ]
@@ -123,12 +126,12 @@
     "category": "Öz Türü",
     "description": "Başkalaşım, iyileştirme ve kutsal büyüler için kullanılan bir Öz türüdür. En yaygın bulunan Öz türü olarak da bilinir. Genel fiyatı 3 Gümüş'tür.",
     "image": "",
-    "firstAppearance": "",
-    "location": "Zet Dünyası",
+    "location": "Aristalia",
     "danger": "",
     "race": "",
     "age": "",
     "occupation": "",
+    "firstAppearance": "",
     "related": [
       "Öz"
     ]
@@ -145,12 +148,12 @@
     "category": "Öz Türü",
     "description": "Değişim bazlı büyüler için kullanılan bir Öz türüdür. Genel fiyatı 7 Gümüş'tür.",
     "image": "",
-    "firstAppearance": "",
-    "location": "Zet Dünyası",
+    "location": "Aristalia",
     "danger": "",
     "race": "",
     "age": "",
     "occupation": "",
+    "firstAppearance": "",
     "related": [
       "Öz"
     ]
@@ -167,12 +170,12 @@
     "category": "Öz Türü",
     "description": "Çağırma büyüleri için kullanılan bir Öz türüdür. En nadir bulunan Öz türü olarak da bilinir. Genel fiyatı 13 Gümüş'tür.",
     "image": "",
-    "firstAppearance": "",
-    "location": "Zet Dünyası",
+    "location": "Aristalia",
     "danger": "",
     "race": "",
     "age": "",
     "occupation": "",
+    "firstAppearance": "",
     "related": [
       "Öz"
     ]
@@ -186,12 +189,12 @@
     "category": "Karakter",
     "description": "Reon, #####################\n???",
     "image": "",
-    "firstAppearance": "",
-    "location": "",
+    "location": "Aristalia",
     "danger": "",
     "race": "",
     "age": "",
     "occupation": "",
+    "firstAppearance": "",
     "related": []
   },
   {
@@ -203,12 +206,12 @@
     "category": "Karakter",
     "description": "Kızılşeytan Köyü'nden gelen bir sorcerer. Kızılşeytan Köyü Saldırısı'ndan sağ kalan üç kişiden biridir. Adolin'in anne tarafından kuzenidir. Explosion büyüsüne bayılır.\n\nGizli Bilgi: Tatlıları aşırı sever. Ona bir tatlı verirseniz sizi en yakın dostlarından biri sayacaktır.",
     "image": "",
-    "firstAppearance": "",
-    "location": "Kızılşeytan Köyü",
+    "location": "Kızılşeytan Köyü/Aristalia",
     "danger": "",
     "race": "",
     "age": "",
     "occupation": "Sorcerer",
+    "firstAppearance": "",
     "related": [
       "Adolin",
       "Kızılşeytan Köyü"
@@ -225,12 +228,12 @@
     "category": "Karakter",
     "description": "Kızılşeytan Köyü'nden gelir. Kızılşeytan Köyü Saldırısı'ndan sağ kalan üç kişiden biridir. Megumin'in anne tarafından kuzenidir. Güncel derecesi S+'dır. İnsanların \"Şampiyonu\"dur. Büyü kullanamaz. Devasa bir balta ve kısa bir kılıç kullanır. En güçlü ikinci şampiyon olarak bilinir.",
     "image": "",
-    "firstAppearance": "",
-    "location": "Kızılşeytan Köyü",
+    "location": "Kızılşeytan Köyü/Aristalia",
     "danger": "S+",
     "race": "",
     "age": "",
     "occupation": "Şampiyon",
+    "firstAppearance": "",
     "related": [
       "Megumin",
       "Kızılşeytan Köyü"
@@ -311,12 +314,12 @@
     "category": "Tanrı",
     "description": "Tüm evrenin tanrısıdır. Uyuyan, kanatsız bir ejder sembolüyle gösterilir.",
     "image": "",
-    "firstAppearance": "",
-    "location": "Evren",
+    "location": "ZET",
     "danger": "",
     "race": "",
     "age": "",
     "occupation": "Tanrı",
+    "firstAppearance": "",
     "related": [
       "Ruh",
       "Araf Canavarı"
