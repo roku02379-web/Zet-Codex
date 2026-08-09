@@ -689,5 +689,157 @@
     "occupation": "",
     "firstAppearance": "",
     "related": []
+  },
+  {
+    "id": 1786301223108,
+    "title": "Zephyr",
+    "aliases": [
+      "zephyr",
+      "zephyr"
+    ],
+    "category": "",
+    "description": "Zephyr, Karanlık Lord Mephellezet'in yenilmesinde büyük rol oynayan \"The Great Old Ones\" grubundaki Druid doğa elfidir.\nAynı zamanda birleşmiş milletlerin kurucularından biri ve Yeni Çağ Doğa Elflerinin temsilcisi idi.ş",
+    "image": "",
+    "location": "Scadrial",
+    "danger": "Değişken",
+    "race": "Doğa Elfi",
+    "age": "2432 Yaşında Öldü",
+    "occupation": "Temsilci",
+    "firstAppearance": "",
+    "related": []
+  },
+  {
+    "id": 1786313405110,
+    "title": "Efsun",
+    "aliases": [
+      "efsun",
+      "efsun",
+      "efsun",
+      "efsun"
+    ],
+    "category": "Kavram",
+    "description": "Efsun, 3 ana türe ayrılır;\n\nKoruma\nBağlama\nNitelendirme\n\nHer biri farklı şekillerde yapılıyor olsa da genelde 3 şey üzerinden oluşturulurlar.\n\nBedel\nAmaç\nVerimlilik\n\nBedel,efsunu yapmak için gereken kaynaktır.Bu Öz,Canavar parçası vb. şeyler olabilir.\n\nAmaç,Efsunun oluşturulma gayesine göre belirlenen ve WoW'da (Words Of Wisdom) yer alan belli kelimelerin kullanılmasıdır.Efsun yapılırken efsuna bu söz \"bağlanmalıdır.\"\n\nVerimlilik,efsun'un çalışma kapasitesini belirler.(Zar ile belirlenir)",
+    "image": "",
+    "location": "",
+    "danger": "",
+    "race": "",
+    "age": "",
+    "occupation": "",
+    "firstAppearance": "",
+    "related": [
+      "Öz"
+    ]
+  },
+  {
+    "id": 1786313598104,
+    "title": "Asael",
+    "aliases": [
+      "asael",
+      "asael"
+    ],
+    "category": "",
+    "description": "Asael, Mephellez'i oğlu ve efsanevi bir savaşçıdır.Class'ı belirsiz olmakla beraber \n\nMephellezet'i tek başına kolayca yenecek büyüleri ve devasa oranda mana miktarı vardı.\nDoğumu, evrenin refleks olarak gerçekliği büken bir ada oluşturup onu oraya yerleştirmesiyle sonuçlanmıştır.",
+    "image": "",
+    "location": "Scadrial",
+    "danger": "Değişken",
+    "race": "",
+    "age": "",
+    "occupation": "",
+    "firstAppearance": "",
+    "related": []
+  },
+  {
+    "id": 1786313837995,
+    "title": "Kai İongantach",
+    "aliases": [
+      "kai i̇ongantach",
+      "kai i̇ongantach",
+      "mutlak canavar"
+    ],
+    "category": "",
+    "description": "01000100 11000011 10111100 01101110 01111001 01100001 01100100 01100001 01101011 01101001 00100000 01101011 01101001 01101101 01110011 01100101 01101110 01101001 01101110 00100000 01111001 01100101 01101110 01100101 01101101 01100101 01111001 01100101 01100011 01100101 11000100 10011111 01101001 00100000 01100010 01101001 01110010 00100000 01100011 01100001 01101110 01100001 01110110 01100001 01110010 00101110 00001010 01010110 01100101 00100000 01001111 01101110 01110101 00100000 01100010 01101001 01101100 01100101 00100000 01111001 01100101 01101110 01100101 01100010 01101001 01101100 01100101 01100011 01100101 01101011 00100000 01100010 01101001 01110010 00100000 01101011 01100001 01101000 01110010 01100001 01101101 01100001 01101110 00100000 01101011 01100101 01101000 01100001 01101110 01100101 01110100 01101001 01101110 01101001 01101110 00100000 01110011 01101111 01101110 01110101 01100011 01110101 00101110 00101110 00101110",
+    "image": "",
+    "location": "Roshar",
+    "danger": "???",
+    "race": "???",
+    "age": "",
+    "occupation": "",
+    "firstAppearance": "",
+    "related": []
+  },
+  {
+    "id": 1786314126942,
+    "title": "Vernir",
+    "aliases": [
+      "vernir",
+      "vernir"
+    ],
+    "category": "",
+    "description": "Vernir, Karanlık Lord Mephellezet'in yenilmesinde büyük rol oynayan \"The Great Old Ones\" grubundaki Fighter Dragonborn'dur.\n\nAynı zamanda birleşmiş milletlerin kurucularından birisiydi.Ölümünden 100 yıl sonra kurulan ve bir \n\nDragonborn ülkesi olan \"Ashborns\" ülkesinin ulusal sembolüdür.\n\nAynı zamanda efsanevi savaşçı \"Barışgetiren X'in\" babasıdır.",
+    "image": "",
+    "location": "Scadrial",
+    "danger": "",
+    "race": "Dragonborn",
+    "age": "256",
+    "occupation": "",
+    "firstAppearance": "",
+    "related": []
+  },
+  {
+    "id": 1786314368521,
+    "title": "Kumandan",
+    "aliases": [
+      "kumandan",
+      "kumandan",
+      "shin  ravioli"
+    ],
+    "category": "",
+    "description": "Kumandan,asıl ismiyle Shin  Ravioli, Kader Savaşından önce bilinen dünyanın hükümdarıydı.\n\nAynı zamanda \"The Great Old Ones\" grubundaki en güçlülerden kabul edilir.Mephellezet ile olan final savaşında canını nihai saldırı uğruna feda etmiştir.\n\nBirleşmiş Milletlerin temsilcisi ve sembolü olarak bilinir.\n\n",
+    "image": "",
+    "location": "Scadrial",
+    "danger": "Değişken",
+    "race": "İnsan",
+    "age": "",
+    "occupation": "",
+    "firstAppearance": "",
+    "related": []
+  },
+  {
+    "id": 1786314486474,
+    "title": "Ölüm",
+    "aliases": [
+      "ölüm",
+      "ölüm",
+      "ölüm"
+    ],
+    "category": "",
+    "description": "Ölüm, her dünyada ve evrende aşanan ortak sonuçtur.Bir canlının hayatını kaybedip ruhunun vücudundan ayrılmasına denir.\nHayatı boyunca yaptıklarına göre yargılanır ve cennet veyahut cehnnem'e gider.",
+    "image": "",
+    "location": "ZET",
+    "danger": "Değişken",
+    "race": "",
+    "age": "",
+    "occupation": "",
+    "firstAppearance": "",
+    "related": []
+  },
+  {
+    "id": 1786314642132,
+    "title": "Beatrice",
+    "aliases": [
+      "beatrice",
+      "beatrice",
+      "beatrice von heingard"
+    ],
+    "category": "",
+    "description": "Katil.",
+    "image": "",
+    "location": "",
+    "danger": "Yüksek",
+    "race": "",
+    "age": "",
+    "occupation": "",
+    "firstAppearance": "",
+    "related": []
   }
 ]
