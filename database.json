@@ -353,17 +353,18 @@
     "id": 17,
     "title": "Gay",
     "aliases": [
+      "gay",
       "gay"
     ],
-    "category": "???",
+    "category": "Easter Egg",
     "description": "You?",
     "image": "",
-    "firstAppearance": "",
     "location": "",
-    "danger": "",
+    "danger": "Gönüllüysen zarar görecek tek şey onurun olur.Ha bide göt deliğin.",
     "race": "",
     "age": "",
     "occupation": "",
+    "firstAppearance": "",
     "related": []
   },
   {
@@ -388,21 +389,21 @@
   },
   {
     "id": 19,
-    "title": "Hayaletkanlar",
+    "title": "Hayaletkan",
     "aliases": [
-      "hayaletkanlar",
       "hayaletkan",
-      "hayalet kanlar"
+      "hayaletkan",
+      "hayaletkanlar"
     ],
-    "category": "Örgüt",
+    "category": "",
     "description": "En bilinen ve etkili suç örgütüdür. Her türlü alanda ve yerde bulunabilirler.",
     "image": "",
-    "firstAppearance": "",
-    "location": "Zet Dünyası",
+    "location": "Aristalia",
     "danger": "Çok Yüksek",
     "race": "",
     "age": "",
     "occupation": "Suç Örgütü",
+    "firstAppearance": "",
     "related": [
       "Alpha",
       "Kaladin"
@@ -417,15 +418,15 @@
       "semadeşen",
       "semadesen"
     ],
-    "category": "Örgüt",
+    "category": "",
     "description": "Semadeşenler, Hayaletkanlara göre daha gizlidir ve gölgelerden iş yaparlar. Büyük ve gizemli bir suç örgütüdür.",
     "image": "",
-    "firstAppearance": "",
-    "location": "",
+    "location": "Aristalia",
     "danger": "Çok Yüksek",
     "race": "",
     "age": "",
     "occupation": "Suç Örgütü",
+    "firstAppearance": "",
     "related": [
       "Hayaletkanlar",
       "Gölge"
@@ -435,21 +436,20 @@
     "id": 21,
     "title": "​Gölge",
     "aliases": [
+      "​gölge",
       "gölge",
       "golge"
     ],
     "category": "",
-    "description": "Lider.",
+    "description": "56 61 72 20 6f 6c 6d 61 6d 61 73 c4 b1 20 67 65 72 65 6b 65 6e 20 62 69 72 20 c5 9f 65 79 69 6e 20 76 61 72 6c c4 b1 c4 9f c4 b1 6e c4 b1 20 68 69 73 73 65 64 69 79 6f 72 73 75 6e 2e 2e 2e",
     "image": "",
+    "location": "?",
+    "danger": "???",
+    "race": "?",
+    "age": "?",
+    "occupation": "?",
     "firstAppearance": "",
-    "location": "",
-    "danger": "",
-    "race": "",
-    "age": "",
-    "occupation": "Lider",
-    "related": [
-      "Semadeşenler"
-    ]
+    "related": []
   },
   {
     "id": 22,
