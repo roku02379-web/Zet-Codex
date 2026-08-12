@@ -786,5 +786,79 @@
     "occupation": "",
     "firstAppearance": "",
     "related": []
+  },
+  {
+    "id": 17,
+    "title": "Gay",
+    "aliases": [
+      "gay",
+      "gay"
+    ],
+    "category": "Easter Egg",
+    "description": "You?",
+    "image": "",
+    "location": "",
+    "danger": "Gönüllüysen zarar görecek tek şey onurun olur.Ha bide göt deliğin.",
+    "race": "",
+    "age": "",
+    "occupation": "",
+    "firstAppearance": "",
+    "related": []
+  },
+  {
+    "id": 1786039561221,
+    "title": "Führer",
+    "aliases": [
+      "führer",
+      "führer",
+      "führer"
+    ],
+    "category": "Easter Egg",
+    "description": "Mustache Man",
+    "image": "https://www.shutterstock.com/editorial/image-editorial/MeT8A1zdN9jaM04fMjM5NTQ=/adolf-hitler-military-uniform-when-he-chancellor-440nw-10282705a.jpg",
+    "location": "",
+    "danger": "",
+    "race": "",
+    "age": "",
+    "occupation": "",
+    "firstAppearance": "",
+    "related": []
+  },
+  {
+    "id": 1786039819064,
+    "title": "DnD",
+    "aliases": [
+      "dnd",
+      "dnd",
+      "dnd"
+    ],
+    "category": "Easter Egg",
+    "description": "DM'in sabrının sınandığı,oyuncuların yaşanan piçliklere karşı koymaya çalıştığı kaotik bir oyun.",
+    "image": "",
+    "location": "",
+    "danger": "",
+    "race": "",
+    "age": "",
+    "occupation": "",
+    "firstAppearance": "",
+    "related": []
+  },
+  {
+    "id": 1786484327668,
+    "title": "Nigger",
+    "aliases": [
+      "nigger",
+      "Nigger"
+    ],
+    "category": "Easter Egg",
+    "description": "Bunu niye arattın aq",
+    "image": "",
+    "location": "",
+    "danger": "",
+    "race": "İnsan.",
+    "age": "",
+    "occupation": "",
+    "firstAppearance": "",
+    "related": []
   }
 ]
